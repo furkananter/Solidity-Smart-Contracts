@@ -28,10 +28,10 @@ contract Struct {
         cars.push(tesla);
 
         cars.push(Car("Ferrari",2024,msg.sender));
-        Car memory _car = cars[0];
-        _car.model;
+        Car storage _car = cars[0];
         _car.year;
-        _car.owner;
+
+        delete cars[1];
         
     }
 }
