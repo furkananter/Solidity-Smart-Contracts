@@ -26,7 +26,7 @@ pragma solidity ^0.8.13;
     Your contract will now be fully accessible to any address and they can start to transact with it. 
     There are gas fees that you will need to pay to deploy and transact with your smart contract. 
 
-    Resources:
+    *Resources:
     https://moralis.io/what-is-a-web3-wallet-web3-wallets-explained/
 
 

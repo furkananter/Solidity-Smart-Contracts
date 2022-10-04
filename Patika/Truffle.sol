@@ -11,7 +11,7 @@ pragma solidity ^0.8.17;
     The Ganache tool has a user-friendly interface where you can access debugging information and blockchain data (accounts, blocks, transactions). 
     You can also configure other elements, such as block times, based on your development needs.
 
-    Resources:
+    *Resources:
     You can find detailed further information from Truffle Official Documentation (in English): 
     https://trufflesuite.com/docs/truffle/quickstart/ 
     https://trufflesuite.com/docs/ganache/quickstart/ 
